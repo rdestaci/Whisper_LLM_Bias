@@ -1,41 +1,41 @@
 id,condition_id,condition_name,sentence,transcription,whisper_perplexity,gpt2_perplexity
-1,A,expected,The farmer milked the cow., The farmer milked the cow.,1.415637731552124,218.47164916992188
-1,B,phonologically related,The farmer milked the couch., The farmer milked the couch.,1.3407869338989258,971.7313232421875
-1,C,semantically related,The farmer milked the goat., The farmer milked the goat.,1.3506684303283691,332.9051208496094
-1,D,both,The farmer milked the calf., The farmer milked the calf.,1.3438260555267334,347.7234802246094
-1,E,neither,The farmer milked the rock., The farmer milked the rock.,1.4028483629226685,631.8842163085938
-2,A,expected,The mechanic fixed the car., The mechanic fixed the car.,1.3964523077011108,922.8823852539062
-2,B,phonologically related,The mechanic fixed the bar., The mechanic fixed the bar.,1.3832428455352783,961.2922973632812
-2,C,semantically related,The mechanic fixed the engine., The mechanic fixed the engine.,1.3773834705352783,552.5108642578125
-2,D,both,The mechanic fixed the cart., The mechanic fixed the cart.,1.3711978197097778,1425.9088134765625
-2,E,neither,The mechanic fixed the apple., The mechanic fixed the apple.,1.4230148792266846,1996.95263671875
-3,A,expected,She wore a diamond ring., She wore a diamond ring.,1.2861549854278564,64.04609680175781
-3,B,phonologically related,She wore a diamond rink., She wore a diamond rink.,1.3968417644500732,2062.333251953125
-3,C,semantically related,She wore a diamond necklace., She wore a diamond necklace.,1.4400463104248047,71.67314910888672
-3,D,both,She wore a diamond bling., She wore a diamond bling.,1.3852248191833496,237.75653076171875
-3,E,neither,She wore a diamond cactus., She wore a diamond cactus.,1.3442435264587402,341.86566162109375
-4,A,expected,He spread butter on his bread., He spread butter on his bread.,1.3479063510894775,138.26077270507812
-4,B,phonologically related,He spread butter on his brim., He spread butter on his brim.,1.3056052923202515,362.693115234375
-4,C,semantically related,He spread butter on his toast., He spread butter on his toast.,1.2968316078186035,111.482666015625
-4,D,both,He spread butter on his bran., He spread butter on his bran.,1.3856496810913086,165.0076446533203
-4,E,neither,He spread butter on his cloud., He spread butter on his cloud.,1.3274656534194946,530.2554321289062
-5,A,expected,The chef sharpened the knife., The chef sharpened the knife.,1.3893365859985352,127.97644805908203
-5,B,phonologically related,The chef sharpened the night., The chef sharpened the knight.,1.500798225402832,1043.047607421875
-5,C,semantically related,The chef sharpened the blade., The chef sharpened the blade.,1.3661409616470337,161.2705841064453
-5,D,both,The chef sharpened the knives., The chef sharpened the knives.,1.354477882385254,158.93643188476562
-5,E,neither,The chef sharpened the sun., The chef sharpened the sun.,1.4131600856781006,567.4554443359375
-6,A,expected,The lumberjack chopped the tree., The lumberjack chopped the tree.,1.319726824760437,300.8556823730469
-6,B,phonologically related,The lumberjack chopped the treat., The lumberjack chopped the treat.,1.305359959602356,867.0338745117188
-6,C,semantically related,The lumberjack chopped the log., The lumberjack chopped the log.,1.3623554706573486,509.39630126953125
-6,D,both,The lumberjack chopped the trunk., The lumberjack chopped the trunk.,1.317356824874878,441.3473815917969
-6,E,neither,The lumberjack chopped the coffee., The lumberjack chopped the coffee.,1.3431048393249512,644.5811767578125
-7,A,expected,The baby drank the milk., The baby drank the milk.,1.4695165157318115,164.43905639648438
-7,B,phonologically related,The baby drank the melt., The baby drank the milk.,1.4938104152679443,164.43905639648438
-7,C,semantically related,The baby drank the juice., The baby drank the juice.,1.4028888940811157,206.32989501953125
-7,D,both,The baby drank the meal., The baby drank the meal.,1.4297149181365967,472.57568359375
-7,E,neither,The baby drank the rock., The baby drank the rock.,1.4665696620941162,497.8702697753906
-8,A,expected,The dog buried the bone., The dog buried the bone.,1.4550986289978027,505.4229736328125
-8,B,phonologically related,The dog buried the boat., The dog buried the boat.,1.1830458641052246,718.0855102539062
-8,C,semantically related,The dog buried the stick., The dog buried the stick.,1.4047586917877197,619.8365478515625
-8,D,both,The dog buried the bowl., The dog buried the bowl.,1.4461984634399414,511.6070861816406
-8,E,neither,The dog buried the cloud., The dog buried the cloud.,1.4079455137252808,1290.8526611328125
+1,A,Expected,The farmer milked the cow., The farmer milked the cow.,1.415637731552124,218.47164916992188
+1,B,Phonologically Related,The farmer milked the couch., The farmer milked the couch.,1.3407869338989258,971.7313232421875
+1,C,Semantically Related,The farmer milked the goat., The farmer milked the goat.,1.3506684303283691,332.9051208496094
+1,D,Both,The farmer milked the calf., The farmer milked the calf.,1.3438260555267334,347.7234802246094
+1,E,Neither,The farmer milked the rock., The farmer milked the rock.,1.4028483629226685,631.8842163085938
+2,A,Expected,The mechanic fixed the car., The mechanic fixed the car.,1.3964523077011108,922.8823852539062
+2,B,Phonologically Related,The mechanic fixed the bar., The mechanic fixed the bar.,1.3832428455352783,961.2922973632812
+2,C,Semantically Related,The mechanic fixed the engine., The mechanic fixed the engine.,1.3773834705352783,552.5108642578125
+2,D,Both,The mechanic fixed the cart., The mechanic fixed the cart.,1.3711978197097778,1425.9088134765625
+2,E,Neither,The mechanic fixed the apple., The mechanic fixed the apple.,1.4230148792266846,1996.95263671875
+3,A,Expected,She wore a diamond ring., She wore a diamond ring.,1.2861549854278564,64.04609680175781
+3,B,Phonologically Related,She wore a diamond rink., She wore a diamond rink.,1.3968417644500732,2062.333251953125
+3,C,Semantically Related,She wore a diamond necklace., She wore a diamond necklace.,1.4400463104248047,71.67314910888672
+3,D,Both,She wore a diamond bling., She wore a diamond bling.,1.3852248191833496,237.75653076171875
+3,E,Neither,She wore a diamond cactus., She wore a diamond cactus.,1.3442435264587402,341.86566162109375
+4,A,Expected,He spread butter on his bread., He spread butter on his bread.,1.3479063510894775,138.26077270507812
+4,B,Phonologically Related,He spread butter on his brim., He spread butter on his brim.,1.3056052923202515,362.693115234375
+4,C,Semantically Related,He spread butter on his toast., He spread butter on his toast.,1.2968316078186035,111.482666015625
+4,D,Both,He spread butter on his bran., He spread butter on his bran.,1.3856496810913086,165.0076446533203
+4,E,Neither,He spread butter on his cloud., He spread butter on his cloud.,1.3274656534194946,530.2554321289062
+5,A,Expected,The chef sharpened the knife., The chef sharpened the knife.,1.3893365859985352,127.97644805908203
+5,B,Phonologically Related,The chef sharpened the night., The chef sharpened the knight.,1.500798225402832,1043.047607421875
+5,C,Semantically Related,The chef sharpened the blade., The chef sharpened the blade.,1.3661409616470337,161.2705841064453
+5,D,Both,The chef sharpened the knives., The chef sharpened the knives.,1.354477882385254,158.93643188476562
+5,E,Neither,The chef sharpened the sun., The chef sharpened the sun.,1.4131600856781006,567.4554443359375
+6,A,Expected,The lumberjack chopped the tree., The lumberjack chopped the tree.,1.319726824760437,300.8556823730469
+6,B,Phonologically Related,The lumberjack chopped the treat., The lumberjack chopped the treat.,1.305359959602356,867.0338745117188
+6,C,Semantically Related,The lumberjack chopped the log., The lumberjack chopped the log.,1.3623554706573486,509.39630126953125
+6,D,Both,The lumberjack chopped the trunk., The lumberjack chopped the trunk.,1.317356824874878,441.3473815917969
+6,E,Neither,The lumberjack chopped the coffee., The lumberjack chopped the coffee.,1.3431048393249512,644.5811767578125
+7,A,Expected,The baby drank the milk., The baby drank the milk.,1.4695165157318115,164.43905639648438
+7,B,Phonologically Related,The baby drank the melt., The baby drank the milk.,1.4938104152679443,164.43905639648438
+7,C,Semantically Related,The baby drank the juice., The baby drank the juice.,1.4028888940811157,206.32989501953125
+7,D,Both,The baby drank the meal., The baby drank the meal.,1.4297149181365967,472.57568359375
+7,E,Neither,The baby drank the rock., The baby drank the rock.,1.4665696620941162,497.8702697753906
+8,A,Expected,The dog buried the bone., The dog buried the bone.,1.4550986289978027,505.4229736328125
+8,B,Phonologically Related,The dog buried the boat., The dog buried the boat.,1.1830458641052246,718.0855102539062
+8,C,Semantically Related,The dog buried the stick., The dog buried the stick.,1.4047586917877197,619.8365478515625
+8,D,Both,The dog buried the bowl., The dog buried the bowl.,1.4461984634399414,511.6070861816406
+8,E,Neither,The dog buried the cloud., The dog buried the cloud.,1.4079455137252808,1290.8526611328125
