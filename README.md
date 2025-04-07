@@ -32,7 +32,7 @@ GPT-2 shows a systematic negative effect of semantic relatedness on perplexity a
 - Larger $n$
 - More careful generation of stimuli (e.g. quantifying/standardizing measurement of semantic and phonological relatedness)
 - Examining larger Whisper models
-- Examining newer LLM models for comparison (e.g. GPT-3, GPT-4, etc.)
+- Examining newer LLM models for more precise comparison (e.g. GPT-3, GPT-4, etc.)
 - Noisy, more variable speech input
 
 ## License
